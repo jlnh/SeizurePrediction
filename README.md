@@ -1,9 +1,9 @@
-Description
+American Epilepsy Society Seizure Prediction Challenge
 -------------------------------
+**Description**
 The code was written for the [American Epilepsy Society Seizure Prediction Challenge](https://www.kaggle.com/c/seizure-prediction). The software is written in Python. The standard numpy, scipy, scikit-learn and matplotlib packages are used extensively.
 
 **Dependency**
-
   * Python 2.7
   * scikit learn-0.14.1
   * numpy-1.8.1
